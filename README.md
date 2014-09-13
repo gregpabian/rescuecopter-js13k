@@ -1,7 +1,9 @@
 rescuecopter-js13k
 ==================
 
-Rescue Copter - js13kGames 2014 entry
+Rescue Copter - a js13kGames 2014 entry.
+
+![screenshot](https://raw.githubusercontent.com/gregpabian/rescuecopter-js13k/master/screenshot.jpg)
 
 Running
 -------
